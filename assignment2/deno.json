@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "start": "deno run task_manager.ts",
+    "check": "deno check task_manager.ts"
+  }
+}
